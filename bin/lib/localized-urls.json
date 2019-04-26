@@ -1,0 +1,257 @@
+{
+  "ca": {
+    "cards.animation-cardsLink": "https://resources.scratch.mit.edu/www/cards/ca/animation-cards.pdf",
+    "cards.chase-cardsLink": "https://resources.scratch.mit.edu/www/cards/ca/chase-cards.pdf",
+    "cards.music-cardsLink": "https://resources.scratch.mit.edu/www/cards/ca/music-cards.pdf",
+    "cards.name-cardsLink": "https://resources.scratch.mit.edu/www/cards/ca/name-cards.pdf",
+    "cards.scratch-cards-allLink": "https://resources.scratch.mit.edu/www/cards/ca/scratch-cards-all.pdf",
+    "cards.story-cardsLink": "https://resources.scratch.mit.edu/www/cards/ca/story-cards.pdf",
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/Scratch2Cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ca/storyCards.pdf"
+  },
+  "en": {
+    "cards.animation-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf",
+    "cards.catch-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/catch-cards.pdf",
+    "cards.chase-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/chase-cards.pdf",
+    "cards.dance-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/dance-cards.pdf",
+    "cards.jumping-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/jumping-cards.pdf",
+    "cards.music-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/music-cards.pdf",
+    "cards.name-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/name-cards.pdf",
+    "cards.pet-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/pet-cards.pdf",
+    "cards.pong-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/pong-cards.pdf",
+    "cards.scratch-cards-allLink": "https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf",
+    "cards.story-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/story-cards.pdf",
+    "cards.video-cardsLink": "https://resources.scratch.mit.edu/www/cards/en/video-cards.pdf",
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/Scratch2Cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/danceCards.pdf",
+    "cards-2.0.dressupCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/dressupCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/en/storyCards.pdf",
+    "guides.AnimateGuideLink": "https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf",
+    "guides.CatchGuideLink": "https://resources.scratch.mit.edu/www/guides/en/CatchGuide.pdf",
+    "guides.ChaseGuideLink": "https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf",
+    "guides.DanceGuideLink": "https://resources.scratch.mit.edu/www/guides/en/DanceGuide.pdf",
+    "guides.EducatorGuidesAllLink": "https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf",
+    "guides.FashionGuideLink": "https://resources.scratch.mit.edu/www/guides/en/FashionGuide.pdf",
+    "guides.FlyGuideLink": "https://resources.scratch.mit.edu/www/guides/en/FlyGuide.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/en/Getting-Started-Guide-Scratch2.pdf",
+    "guides.HideandSeekGuideLink": "https://resources.scratch.mit.edu/www/guides/en/HideandSeekGuide.pdf",
+    "guides.MusicGuideLink": "https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf",
+    "guides.NameGuideLink": "https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf",
+    "guides.PetGuideLink": "https://resources.scratch.mit.edu/www/guides/en/PetGuide.pdf",
+    "guides.PongGuideLink": "https://resources.scratch.mit.edu/www/guides/en/PongGuide.pdf",
+    "guides.RaceGuideLink": "https://resources.scratch.mit.edu/www/guides/en/RaceGuide.pdf",
+    "guides.StoryGuideLink": "https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf",
+    "guides.VideoGuideLink": "https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf"
+  },
+  "fr": {
+    "cards.story-cardsLink": "https://resources.scratch.mit.edu/www/cards/fr/story-cards.pdf",
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/fr/Scratch2Cards.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/fr/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "pt-br": {
+    "cards.catch-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/catch-cards.pdf",
+    "cards.chase-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/chase-cards.pdf",
+    "cards.dance-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/dance-cards.pdf",
+    "cards.jumping-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/jumping-cards.pdf",
+    "cards.music-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/music-cards.pdf",
+    "cards.name-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/name-cards.pdf",
+    "cards.pong-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/pong-cards.pdf",
+    "cards.scratch-cards-allLink": "https://resources.scratch.mit.edu/www/cards/pt-br/scratch-cards-all.pdf",
+    "cards.story-cardsLink": "https://resources.scratch.mit.edu/www/cards/pt-br/story-cards.pdf",
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/Scratch2Cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/pt-br/storyCards.pdf",
+    "guides.CatchGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/CatchGuide.pdf",
+    "guides.DanceGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/DanceGuide.pdf",
+    "guides.FashionGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/FashionGuide.pdf",
+    "guides.FlyGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/FlyGuide.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/pt-br/Getting-Started-Guide-Scratch2.pdf",
+    "guides.HideandSeekGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/HideandSeekGuide.pdf",
+    "guides.MusicGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/MusicGuide.pdf",
+    "guides.NameGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/NameGuide.pdf",
+    "guides.PetGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/PetGuide.pdf",
+    "guides.PongGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/PongGuide.pdf",
+    "guides.RaceGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/RaceGuide.pdf",
+    "guides.StoryGuideLink": "https://resources.scratch.mit.edu/www/guides/pt-br/StoryGuide.pdf"
+  },
+  "zh-tw": {
+    "cards.animation-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/animation-cards.pdf",
+    "cards.catch-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/catch-cards.pdf",
+    "cards.chase-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/chase-cards.pdf",
+    "cards.dance-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/dance-cards.pdf",
+    "cards.jumping-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/jumping-cards.pdf",
+    "cards.music-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/music-cards.pdf",
+    "cards.name-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/name-cards.pdf",
+    "cards.pet-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/pet-cards.pdf",
+    "cards.pong-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/pong-cards.pdf",
+    "cards.scratch-cards-allLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/scratch-cards-all.pdf",
+    "cards.story-cardsLink": "https://resources.scratch.mit.edu/www/cards/zh-tw/story-cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-tw/storyCards.pdf"
+  },
+  "ar": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ar/Scratch2Cards.pdf"
+  },
+  "cs": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/cs/Scratch2Cards.pdf"
+  },
+  "de": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/Scratch2Cards.pdf",
+    "cards-2.0.catchCards-duplexLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/catchCards-duplex.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/danceCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/nameCards.pdf",
+    "cards-2.0.storyCards-singleLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/storyCards-single.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/de/storyCards.pdf"
+  },
+  "es": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/Scratch2Cards.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/es/storyCards.pdf"
+  },
+  "hr": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/hr/Scratch2Cards.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/hr/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "it": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/it/Scratch2Cards.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/it/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "ja": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/Scratch2Cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja/storyCards.pdf",
+    "guides.CatchGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/CatchGuide.pdf",
+    "guides.DanceGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/DanceGuide.pdf",
+    "guides.FashionGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/FashionGuide.pdf",
+    "guides.FlyGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/FlyGuide.pdf",
+    "guides.HideandSeekGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/HideandSeekGuide.pdf",
+    "guides.MusicGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/MusicGuide.pdf",
+    "guides.NameGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/NameGuide.pdf",
+    "guides.PetGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/PetGuide.pdf",
+    "guides.PongGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/PongGuide.pdf",
+    "guides.RaceGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/RaceGuide.pdf",
+    "guides.StoryGuideLink": "https://resources.scratch.mit.edu/www/guides/ja/StoryGuide.pdf"
+  },
+  "ja-hr": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/Scratch2Cards.pdf",
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ja-hr/storyCards.pdf"
+  },
+  "ko": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/ko/Scratch2Cards.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/ko/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "nl": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/nl/Scratch2Cards.pdf"
+  },
+  "sl": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/sl/Scratch2Cards.pdf",
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/sl/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "sv": {
+    "cards-2.0.Scratch2CardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/sv/Scratch2Cards.pdf"
+  },
+  "zh-cn": {
+    "cards-2.0.ScratchCardsAllLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/ScratchCardsAll.pdf",
+    "cards-2.0.catchCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/catchCards.pdf",
+    "cards-2.0.danceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/danceCards.pdf",
+    "cards-2.0.fashionCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/fashionCards.pdf",
+    "cards-2.0.flyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/flyCards.pdf",
+    "cards-2.0.hide-seekCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/hide-seekCards.pdf",
+    "cards-2.0.musicCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/musicCards.pdf",
+    "cards-2.0.nameCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/nameCards.pdf",
+    "cards-2.0.petCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/petCards.pdf",
+    "cards-2.0.pongCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/pongCards.pdf",
+    "cards-2.0.raceCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/raceCards.pdf",
+    "cards-2.0.storyCardsLink": "https://resources.scratch.mit.edu/www/cards-2.0/zh-cn/storyCards.pdf"
+  },
+  "el": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/el/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "eo": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/eo/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "eu": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/eu/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "nb": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/nb/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "ru": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/ru/Getting-Started-Guide-Scratch2.pdf"
+  },
+  "sr": {
+    "guides.Getting-Started-Guide-Scratch2Link": "https://resources.scratch.mit.edu/www/guides/sr/Getting-Started-Guide-Scratch2.pdf"
+  }
+}

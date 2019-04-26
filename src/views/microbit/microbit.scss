@@ -1,0 +1,17 @@
+@import "../../colors";
+@import "../../frameless";
+
+.microbit {
+    .extension-header {
+        background-color: $ui-mint-green;
+        background-image: url("/images/microbit/mbit-pattern.svg");
+    }
+
+    .things-to-try {
+        .display-hello {
+            .step-image {
+                align-self: center;
+            }
+        }
+    }
+}
